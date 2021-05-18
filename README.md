@@ -1,5 +1,5 @@
-### Hi 👋, I'm Shubham Khapra
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubhamkhapra-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhamkhapra-?trk=profile-badge">Shubham Khapra</a></div>
+### Hi 👋, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubhamkhapra-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhamkhapra-?trk=profile-badge">Shubham Khapra</a></div>
+
 Cyber Forensics Investigator ✨ | 👨‍💻 Learning | 🌱 Exploiting | ⚡ Networking Enthusiast
 
 - 🔭 I’m currently working on *Networking & Digital forensics & Data Analysis*
