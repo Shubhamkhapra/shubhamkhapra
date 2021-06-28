@@ -3,7 +3,7 @@
 Cyber Forensics Investigator ✨ | 👨‍💻 Learning | 🌱 Exploiting | ⚡ Networking Enthusiast
 
 - 🔭 I’m currently working on *Networking & Digital forensics & Data Analysis*
-- 🌱 I’m currently learning *CCNA & Networking Security*
+- 🌱 I’m currently learning *WebAppSec/Secure Coding & Networking Security*
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/Shubhamkhapra?tab=repositories)
 
 - 📫 How to reach me: shubhamkhapra21@gmail.com
