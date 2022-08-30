@@ -4,7 +4,8 @@ Cyber Forensics Investigator ✨ | 👨‍💻 Learning | 🌱 Exploiting | ⚡ 
 
 - 🔭 I’m currently working on *WebAppSec/Secure Coding & Digital forensics & Data Analysis*
 - 🌱 I’m currently learning *WebAppSec/Secure Coding & Networking Security*
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/Shubhamkhapra?tab=repositories)[webSite](https://shubhamkhapra.netlify.app/)
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/Shubhamkhapra?tab=repositories)
+- [webSite](https://shubhamkhapra.netlify.app/)
 
 - 📫 How to reach me: shubhamkhapra@protonmail.com
 - ⚡ Fun fact:* Eat and work only *
